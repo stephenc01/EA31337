@@ -565,10 +565,12 @@ void OnTesterDeinit() {
 
 // The Start event handler, which is automatically generated only for running scripts.
 // FIXME: Doesn't seems to be called, however MT4 doesn't want to execute EA without it.
+/** Should not be here. Breaks Compile @stephenc01
 void start() {
   if (VerboseTrace) Print("Calling " + __FUNCTION__ + ".");
   if (VerboseInfo) Print(__FUNCTION__ + ": " + GetMarketTextDetails());
 }
+**/
 
 /**
  * Print init variables and constants.
