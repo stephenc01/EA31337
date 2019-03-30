@@ -18,7 +18,7 @@
 	url = https://github.com/EA31337/FX-MT-VM.git
 [submodule "sets/Lite"]
 	path = sets/Lite
-	url = https://github.com/EA31337/EA31337-Lite-Sets.git
+url=https://github.com/stephenc01/EA31337-Lite-Sets
 [submodule "sets/Advanced"]
 	path = sets/Advanced
-	url = https://github.com/EA31337/EA31337-Advanced-Sets.git
+url=https://github.com/stephenc01/EA31337-Advanced-Sets
